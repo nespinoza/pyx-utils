@@ -2,6 +2,8 @@
 
 Utilities to perform some graphics on plots using the pyx library (pyx.sourceforge.net)
 
+Author: Nestor Espinoza (nespino@astro.puc.cl)
+
 About the code
 --------------
 
